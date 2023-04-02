@@ -6,7 +6,7 @@
 - 🌍 I'll relocate to London 🇬🇧, start from 24th April, 2023.
 - 🎿 Hobbies other than coding : 🏄🏻‍♀️Surfing, 🎾Play tennis.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ria_(chih_yin)_Yang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ria-chihyin-yang)](www.linkedin.com/in/ria-chihyin-yang)
-- 📝 [My resume](https://drive.google.com/drive/u/1/folders/1rpo2PrtBpEjg91U8NZALitsQNvQS_WDx))
+- 📝 [My resume](https://drive.google.com/drive/u/1/folders/1rpo2PrtBpEjg91U8NZALitsQNvQS_WDx)
 
 ### 🛠️ Languages and Tools:
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=Swift)
