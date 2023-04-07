@@ -1,4 +1,4 @@
-### 👋🏻 Hi there, I'm Ria👩🏻‍💻.
+### 👋🏻 Hi there, I'm ChihYin👩🏻‍💻.
 
 ### ✨ Quick Facts
 
