@@ -3,7 +3,7 @@
 ### ✨ Quick Facts
 
 - 👩🏻‍💻 I’m an iOS Developer, used to worked @ [CMoney](http://www.cmoney.com.tw) in Taiwan.
-- 🌍 I will be relocating to London 🇬🇧, starting from 24th April, 2023.
+- 🌍 Currently in London, I'm looking for an iOS developer job.(Tier 5 Visa)
 - 🎿 Hobbies other than coding : 🏄🏻‍♀️Surfing, 🎾Play tennis.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ria_(chih_yin)_Yang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ria-chihyin-yang/)](https://www.linkedin.com/in/ria-chihyin-yang/)
 - 📝 [My resume](https://lihi3.cc/gG0Ma)
