@@ -10,7 +10,6 @@
 
 ### 🛠️ Languages and Tools:
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=Swift)
-![SwiftUI](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=SwiftUI)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
